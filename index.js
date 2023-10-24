@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+function suma(x,y,z){
+    return x+y+z;
+};
+
+>>>>>>> rama2
 function resta(x,y){
     return x-y;
 };
